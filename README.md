@@ -14,7 +14,9 @@ For my project, the topic I chose was speed dating. More specifically, the algor
 One simply needs to run ```python main.py``` to execute experiments and trial according to the agent and policies as defined in the file ```main.py```, and generate appropriate graphs dictating number of times an optimal choice was made 
 
 ## Author
-Vansh Gupta: https://github.com/V-G-spec
+[Vansh Gupta](https://github.com/V-G-spec)  
+Undergraduate student, Electrical Engineering Department  
+Indian Institute of Technology, Delhi  
 
 ## License
 Copyright -2022 - Pohang University of Science and Technology, S. Korea
